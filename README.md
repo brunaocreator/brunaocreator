@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou Bruno Vieira
+## 👋 Olá! Eu sou Bruno Vieira :man_technologist:
 
 📚 Estudande de Engenharia de Telecomunicações - UFF e Técnico de eletrônica - CEFET/Rj
 
