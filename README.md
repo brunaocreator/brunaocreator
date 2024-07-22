@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Bruno Vieira :man_technologist:
 
-📚 Estudande de Engenharia de Telecomunicações - UFF e Técnico de eletrônica - CEFET/Rj
+Atualmente 📚 curso Engenharia de Telecomunicações na UFF e curso Técnico de eletrônica no CEFET/Rj
 
 <!--Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)-->
